@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "CultureCraft — Virtual Microbiology Media Lab"
+description = "An interactive educational virtual lab for exploring culture media, simulated preparation workflows, equipment, comparisons, quizzes, error detection, and experiment reports."
